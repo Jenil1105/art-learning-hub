@@ -1,0 +1,104 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Pencil Sketching Fundamentals",
+      "slug": "pencil-sketching-fundamentals",
+      "description": "Learn the basics of pencil sketching including shading, proportions, and perspective.",
+      "price": 79.99,
+      "instructor": "Aarav Mehta",
+      "isFeatured": true,
+      "image": "/courses/1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Charcoal Drawing Techniques",
+      "slug": "charcoal-drawing-techniques",
+      "description": "Master charcoal drawing with techniques for contrast, texture, and expressive portraits.",
+      "price": 89.99,
+      "instructor": "Riya Kapoor",
+      "isFeatured": true,
+      "image": "/courses/1.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Canvas Painting for Beginners",
+      "slug": "canvas-painting-for-beginners",
+      "description": "Start painting on canvas and learn color mixing, brush techniques, and composition.",
+      "price": 109.99,
+      "instructor": "Arjun Shah",
+      "isFeatured": true,
+      "image": "/courses/1.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Watercolor Landscape Painting",
+      "slug": "watercolor-landscape-painting",
+      "description": "Create beautiful watercolor landscapes using blending and layering techniques.",
+      "price": 99.99,
+      "instructor": "Neha Verma",
+      "isFeatured": false,
+      "image": "/courses/1.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Acrylic Painting Essentials",
+      "slug": "acrylic-painting-essentials",
+      "description": "Learn acrylic painting techniques including textures, layering, and vibrant color use.",
+      "price": 119.99,
+      "instructor": "Kabir Singh",
+      "isFeatured": true,
+      "image": "/courses/1.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Portrait Drawing Masterclass",
+      "slug": "portrait-drawing-masterclass",
+      "description": "Learn how to draw realistic human portraits with accurate proportions and shading.",
+      "price": 129.99,
+      "instructor": "Ishita Rao",
+      "isFeatured": false,
+      "image": "/courses/1.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Ink Illustration Techniques",
+      "slug": "ink-illustration-techniques",
+      "description": "Explore ink illustration styles including line art, hatching, and comic illustration.",
+      "price": 89.99,
+      "instructor": "Dev Patel",
+      "isFeatured": false,
+      "image": "/courses/1.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Digital Art Basics",
+      "slug": "digital-art-basics",
+      "description": "Learn the fundamentals of digital drawing using tablets and modern art software.",
+      "price": 139.99,
+      "instructor": "Ananya Desai",
+      "isFeatured": true,
+      "image": "/courses/1.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Still Life Drawing",
+      "slug": "still-life-drawing",
+      "description": "Practice drawing everyday objects while mastering lighting, form, and composition.",
+      "price": 84.99,
+      "instructor": "Rahul Nair",
+      "isFeatured": false,
+      "image": "/courses/1.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Mixed Media Art",
+      "slug": "mixed-media-art",
+      "description": "Combine different art materials like watercolor, ink, and collage to create unique artworks.",
+      "price": 119.99,
+      "instructor": "Priya Sharma",
+      "isFeatured": true,
+      "image": "/courses/1.jpg"
+    }
+  ]
+}
